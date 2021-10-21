@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+All you see here are side-projects.
+
 <!--
 **bastie/bastie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
