@@ -2,6 +2,9 @@
 
 All you see here are side-projects.
 
+[![Projects](./resources/Strip-Side-project-650-finalenglish.jpg)](https://www.commitstrip.com/en/about/?)
+
+
 <!--
 **bastie/bastie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
