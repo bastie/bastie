@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-All you see here are side-projects.
+Look you see my other...
 
 [![Projects](./resources/Strip-Side-project-650-finalenglish.jpg)](https://www.commitstrip.com/en/about/?)
 
